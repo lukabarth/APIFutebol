@@ -15,7 +15,7 @@ https://www.api-futebol.com.br/
 
 ## Como usar
 1. Inicie a aplicação usando Maven
-2. A API poderá ser acessada em http://localhost:8080
+2. A API poderá ser acessada em http://localhost:8080/v1
 
 ## API Endpoints
 ## Campeonatos
